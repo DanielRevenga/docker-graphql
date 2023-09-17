@@ -1,0 +1,7 @@
+{
+   "trailingComma": "es5",
+   "tabWidth": 3,
+   "useTabs": false,
+   "indent_style": "space",
+   "semi": false
+}
